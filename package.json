@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Starter template for TS libraries",
   "keywords": [
-    "starter", "library", "typescript"
+    "starter",
+    "library",
+    "typescript"
   ],
   "homepage": "https://github.com/bgub/ts-base",
   "type": "module",

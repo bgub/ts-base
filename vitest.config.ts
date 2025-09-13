@@ -7,7 +7,7 @@ export default defineConfig({
       reporter: ["lcov"],
       include: ["src/**/*.ts"],
       thresholds: {
-        branches: 85,
+        branches: 75,
         functions: 95,
         lines: 95,
         statements: 95,

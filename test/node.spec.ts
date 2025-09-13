@@ -11,5 +11,3 @@ describe("node adapter", () => {
     expect(id).toMatch(/^[0-9a-z]+-[A-Za-z0-9_-]+$/);
   });
 });
-
-

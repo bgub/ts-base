@@ -1,5 +1,5 @@
 // Browser adapter. Re-export core utilities; avoid Node-only APIs.
-export { add, greet, getRandomId } from "./internal";
+export { add, getRandomId, greet } from "./internal";
 
 export function getSecureRandomId(): string {
   const timePart = Date.now().toString(36);

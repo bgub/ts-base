@@ -4,8 +4,11 @@ import { add, getRandomId, getSecureRandomId, greet } from "../src/browser";
 
 beforeAll(() => {
   // Ensure btoa exists in Node test environment
+  // biome-ignore lint/suspicious/noExplicitAny: this is fine
   if (!(globalThis as any).btoa) {
-    (globalThis as any).btoa = (str: string) => Buffer.from(str, "binary").toString("base64");
+    // biome-ignore lint/suspicious/noExplicitAny: this is fine
+    (globalThis as any).btoa = (str: string) =>
+      Buffer.from(str, "binary").toString("base64");
   }
 });
 
