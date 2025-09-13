@@ -8,6 +8,15 @@
   <a href="https://github.com/bgub/ts-base/issues">Issues</a>
 </p>
 
+<span align="center">
+
+[![npm](https://img.shields.io/npm/v/%40bgub%2Fts-base?logo=npm&label=npm)](https://www.npmjs.com/package/@bgub/ts-base)
+[![CI](https://github.com/bgub/ts-base/actions/workflows/ci.yml/badge.svg)](https://github.com/bgub/ts-base/actions)
+[![Codecov](https://codecov.io/github/bgub/ts-base/branch/main/graph/badge.svg)](https://codecov.io/github/bgub/ts-base)
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-ff69b4)](https://github.com/sponsors/bgub)
+
+</span>
+
 TypeScript library starter that works out-of-the-box with Node, Deno, Bun, and the browser. Batteries included: linting, testing, bundling, size-limit, and automated releases.
 
 ## Features
