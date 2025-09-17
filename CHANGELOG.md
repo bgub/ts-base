@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/bgub/ts-base/compare/ts-base-v1.0.1...ts-base-v1.0.2) (2025-09-17)
+
+
+### Bug Fixes
+
+* change imports, remove deno.land from README ([9abc740](https://github.com/bgub/ts-base/commit/9abc7408e8120e5c229bba170f5ce19119aa620d))
+
 ## [1.0.1](https://github.com/bgub/ts-base/compare/ts-base-v1.0.0...ts-base-v1.0.1) (2025-09-17)
 
 
