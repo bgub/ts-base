@@ -1,6 +1,6 @@
 {
   "name": "@bgub/ts-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Starter template for TS libraries",
   "keywords": [
     "starter",
