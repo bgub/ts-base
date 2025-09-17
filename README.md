@@ -56,7 +56,7 @@ console.log(getSecureRandomId());
 Browser usage (bundled or via import maps):
 
 ```ts
-import { add, greet, getSecureRandomId } from "@bgub/ts-base/core";
+import { add, greet, getSecureRandomId } from "@bgub/ts-base/browser";
 
 add(1, 2);
 greet("Linus");
@@ -66,7 +66,7 @@ getSecureRandomId();
 Deno usage (import from `src` if desired):
 
 ```ts
-import { add, greet } from "https://deno.land/x/ts_base@<version>/src/internal.ts";
+import { add, greet } from "https://jsr.io/@bgub/ts-base/<version>/src/index.ts";
 ```
 
 ## Project Structure
