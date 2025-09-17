@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/bgub/ts-base/compare/ts-base-v1.0.0...ts-base-v1.0.1) (2025-09-17)
+
+
+### Bug Fixes
+
+* trigger publish workflow ([f87c7f7](https://github.com/bgub/ts-base/commit/f87c7f75fa9eeaf6b6987433a479962712ff3d1e))
+
 ## 1.0.0 (2025-09-13)
 
 
